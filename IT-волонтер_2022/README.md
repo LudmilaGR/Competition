@@ -6,7 +6,7 @@
 **Команда:**
 
 - Колесник Наталья - капитан
-- Григорьева Людмила [Сертификат победителя Хакатона] (https://drive.google.com/file/d/1RbUQ_orh9HQh1tNg6QOuHUPCTWmDh6S2/view?usp=sharing)
+- Григорьева Людмила [Сертификат победителя Хакатона](https://drive.google.com/file/d/1RbUQ_orh9HQh1tNg6QOuHUPCTWmDh6S2/view?usp=sharing)
 - Ямилова Алсу
 - Фараджзаде Руслан
 - Ковалева Надежда
