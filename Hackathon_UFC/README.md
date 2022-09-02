@@ -37,7 +37,7 @@ Natalia Minnigalimova, [Людмила Григорьева](https://github.com/
 
 [valid_df_ds2.pkl](data/valid_df_ds2.pkl) - Валидационный DataFrame после предобработки
 
-Ссылка на презентацию на google-диске https://docs.google.com/presentation/d/1EvoNOEgZnpv0wITmZMXMN7Q2xAJq2Q4dAghddP--Kq8/edit?usp=sharing
+Ссылка на презентацию на [google-диске](https://docs.google.com/presentation/d/1EvoNOEgZnpv0wITmZMXMN7Q2xAJq2Q4dAghddP--Kq8/edit?usp=sharing)
 ## Результаты:
 
 Наша модель превзошла **Baseline** и показала следующие результаты:
