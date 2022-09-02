@@ -1,7 +1,7 @@
 # IT_volunteer
 Кейс 2 - 'Анализ бухгалтерской отчетности НКО'
 
-Презентация: [ссылка на гугл диск](https://docs.google.com/presentation/d/1oUZdao_ClECU3FEsz1lFQmJC41TBMbiOqtMMcAVfVJg/edit?usp=sharing)
+Презентация: [ссылка на гугл диск](https://docs.google.com/presentation/d/1hon3qAW123FMUGn9h0902x06Il5xwzurWfJ4ashEKKI/edit?usp=sharing)
 
 **Команда:**
 
